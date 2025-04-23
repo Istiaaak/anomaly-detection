@@ -1,0 +1,5 @@
+anomaly_dino/memory_bank.pth
+patchcore/patchcore_cache/
+*.pth
+__pycache__/
+**/__pycache__/
